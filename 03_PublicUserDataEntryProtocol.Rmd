@@ -12,7 +12,7 @@ Registration for compadre-db.org is intentionally minimal since the data you cho
 
 ## Protocol Overview
 
-Data you submit to the COMPADRE or COMADRE databases is entered manually using three types of digitization forms: (1) The **Publication form** which contains metadata on the publication, such as bibliographic and study level information; (2) The **Population form** form with metadata that allows for the interpretation of the matrix data, and it pertains to information at the species/population level; and (3) the **Matrix form** which contains the matrix population models themselves, as well as information that is matrix-specific.
+Data you submit to the COMPADRE or COMADRE databases is entered manually using three types of digitization forms: (1) The **Publication form** which contains metadata on the publication, such as bibliographic and study level information; (2) The **Population form** form which contains metadata on a population of a study species and allows for the interpretation of the matrix data; and (3) the **Matrix form** which contains the matrix population models themselves, as well as information that is matrix-specific.
 
 **Note:** We use the term **Publication** in the **Publication form** for simplicity. In this form, you'll be able to select whether your data come from a `Book`, `Book Chapter`, `Journal Article`, `Thesis` (which includes PhD Dissertations), `Report`, `Conference`, or `Other` (which includes preprints and unpublished data).
 
